@@ -1,10 +1,8 @@
-
 {
   "name": "student-http-json-server",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node student_http_json_server.js"
+    "start": "node server.js"
   }
 }
-
